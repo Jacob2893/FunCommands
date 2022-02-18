@@ -1,0 +1,18 @@
+name: FunCommands
+version: '${project.version}'
+main: sgmaffija.funcommands.FunCommands
+api-version: 1.16
+authors: [ Jacxb77 ]
+description: Plugin z komendami 4fun
+
+commands:
+  launch:
+    description: Wyrzuca wybranego gracza w powietrze
+  nick:
+    description: Zmienia nick wybranemu graczowi
+  smite:
+    description: Trafia wybranego gracza piorunem
+  boom:
+    description: Wysadza wybranego gracza
+  superman:
+    description: Nadaje wybranemu graczowi liczne pozytywne efekty na 60 sekund
